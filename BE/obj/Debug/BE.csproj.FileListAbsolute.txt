@@ -1,0 +1,12 @@
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BE\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BE\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BE\obj\Debug\BE.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BE\obj\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BE\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BE\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BE\obj\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BE\obj\Debug\BE.pdb

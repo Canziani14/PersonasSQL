@@ -1,0 +1,45 @@
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\DAL\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\DAL\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\DAL\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\DAL\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\DAL\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\DAL\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\DAL\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\DAL\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\DAL\bin\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\DAL\bin\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\DAL\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\DAL\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\DAL\obj\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\DAL\bin\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\DAL\bin\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\DAL\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\DAL\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\DAL\obj\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\DAL\obj\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\DAL\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\DAL\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\DAL\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\DAL\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\DAL\obj\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\DAL\obj\Debug\DAL.pdb

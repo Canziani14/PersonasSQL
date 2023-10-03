@@ -1,0 +1,108 @@
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\bin\Debug\UI.exe.config
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\bin\Debug\UI.exe
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\bin\Debug\UI.pdb
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\bin\Debug\BLL.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\bin\Debug\BLL.pdb
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.Main.resources
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIAgregar.resources
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIEliminar.resources
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIListar.resources
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIModificar.resources
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.exe
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\bin\Debug\UI.exe.config
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\bin\Debug\UI.exe
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\bin\Debug\UI.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\bin\Debug\BLL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\bin\Debug\BLL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.Main.resources
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIAgregar.resources
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIEliminar.resources
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIListar.resources
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIModificar.resources
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.exe
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\bin\Debug\UI.exe.config
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\bin\Debug\UI.exe
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\bin\Debug\UI.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\bin\Debug\BLL.dll
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\bin\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\bin\Debug\BLL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\bin\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.Main.resources
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIAgregar.resources
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIEliminar.resources
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIListar.resources
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.UIModificar.resources
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.exe
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\UI\obj\Debug\UI.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\bin\Debug\UI.exe.config
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\bin\Debug\UI.exe
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\bin\Debug\UI.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\bin\Debug\BLL.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\bin\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\bin\Debug\BLL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\bin\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.Main.resources
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.UIAgregar.resources
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.exe
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.UIModificarEliminar.resources
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\UI\obj\Debug\UI.Listar.resources
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\bin\Debug\UI.exe.config
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\bin\Debug\UI.exe
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\bin\Debug\UI.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\bin\Debug\BLL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\bin\Debug\BLL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.Main.resources
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.UIAgregar.resources
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.Listar.resources
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.UIModificarEliminar.resources
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.exe
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\UI\obj\Debug\UI.pdb

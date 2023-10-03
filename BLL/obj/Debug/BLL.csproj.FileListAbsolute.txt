@@ -1,0 +1,55 @@
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\bin\Debug\BLL.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\bin\Debug\BLL.pdb
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.dll
+C:\Users\CASA\Desktop\ListadoDePersonas\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\bin\Debug\BLL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\bin\Debug\BLL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudConConexionSQL\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\bin\Debug\BLL.dll
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\bin\Debug\BLL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\bin\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\bin\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.dll
+C:\Users\Matias Canziani\Desktop\CrudConConexionABaseDeDatos\BLL\obj\Debug\BLL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\bin\Debug\BLL.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\bin\Debug\BLL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\bin\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\bin\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\obj\Debug\BLL.dll
+C:\Users\Matias Canziani\Desktop\CrudConSQL\CrudConSQL\BLL\obj\Debug\BLL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\bin\Debug\BLL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\bin\Debug\BLL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\bin\Debug\BE.dll
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\bin\Debug\DAL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\bin\Debug\BE.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\bin\Debug\DAL.pdb
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\obj\Debug\BLL.dll
+C:\Users\CASA\Desktop\Proyectos\CrudPersonasSQL\BLL\obj\Debug\BLL.pdb
